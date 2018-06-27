@@ -1,0 +1,8 @@
+resolver: nightly-2018-05-13
+
+packages:
+- .
+
+extra-deps:
+- either-both-0.1.0.0
+- filtrable-0.1.1.0
